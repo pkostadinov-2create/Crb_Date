@@ -8,5 +8,5 @@ Project date: 24/Юли / 2062440
 ## Requirements
 
 ```
-define('CRB_SQL_DATE_FORMAT', 'Y-m-d');
+define( 'CRB_SQL_DATE_FORMAT', 'Y-m-d' );
 ```
